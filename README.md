@@ -1,2 +1,13 @@
-# sqlExample
-This repo is for learning SQL commands
+# SQL Learnings
+
+
+installation :+1:
+
+```javascript
+brew install mysql
+mysqladmin -u root password 'root''
+```
+
+### Contents
+ * create table
+ * 
